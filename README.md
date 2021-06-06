@@ -22,3 +22,5 @@ be sent to the drone through the sdk.
 The project will be implemented first on the ardrone 2.0
 but the Goal is to make it work o, even smaller drones such as 
 DJI tello using a simple app on a smartphone.
+
+First release : https://www.youtube.com/watch?v=-LfS7I40Dfo
