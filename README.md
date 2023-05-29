@@ -1,3 +1,5 @@
+https://github.com/themasterofarts/recordme_followme/assets/51891613/9a8a9be1-6ca0-403d-aea2-43dd68319ed2
+
 # recordme_followme
 Record me follow me is a Technology
 that aims to record a somebody passing an emotional
@@ -26,5 +28,5 @@ DJI tello using a simple app on a smartphone.
 First release : https://www.youtube.com/watch?v=-LfS7I40Dfo
 
 
-https://github.com/themasterofarts/recordme_followme/assets/51891613/9a8a9be1-6ca0-403d-aea2-43dd68319ed2
+
 
