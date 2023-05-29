@@ -24,3 +24,7 @@ but the Goal is to make it work o, even smaller drones such as
 DJI tello using a simple app on a smartphone.
 
 First release : https://www.youtube.com/watch?v=-LfS7I40Dfo
+
+
+https://github.com/themasterofarts/recordme_followme/assets/51891613/9a8a9be1-6ca0-403d-aea2-43dd68319ed2
+
